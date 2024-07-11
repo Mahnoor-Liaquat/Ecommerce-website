@@ -15,7 +15,7 @@ const Footer = () => {
         <ul className='footer-links'>
             <li>Company</li>
             <li>Products</li>
-            <li>Pffices</li>
+            <li>Offices</li>
             <li>About</li>
             <li>Contact</li>
         </ul>
@@ -33,6 +33,7 @@ const Footer = () => {
         </div>
         <div className='footer-copyright'>
             <hr/>
+            Made with &hearts; by Mahnoor <br/>
             copyright @ 2024 - All Right Reserved
 
         </div>
